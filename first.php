@@ -8,7 +8,14 @@
     <title>first git repo</title>
 </head>
 <body>
+<?php for ($j=1;$j <= 10;$j++){ ?>
 
+
+    <?php echo 'hello<br>' ?>
+
+
+<?php
+} ?>
 </body>
 </html>
 <?php
