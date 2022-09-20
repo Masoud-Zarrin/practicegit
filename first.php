@@ -12,6 +12,7 @@
 
 
     <?php echo 'hello<br>' ?>
+    how are you
 
 
 <?php
